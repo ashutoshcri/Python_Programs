@@ -1,0 +1,70 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"3a79c11a-af6d-46b1-818b-28b3af481221\" name=\"Default Changelist\" comment=\"\">\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/learning_log/settings.py\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/learning_log/settings.py\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"HTML File\" />\r\n        <option value=\"Python Script\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Pull.Settings\">\r\n    <option name=\"BRANCH\" value=\"master\" />\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$/..\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"1ZBLaLHSUbVaXpXzew9K4diZvnu\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\">\r\n    <ConfirmationsSetting value=\"2\" id=\"Add\" />\r\n  </component>\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">\r\n    <property name=\"ASKED_ADD_EXTERNAL_FILES\" value=\"true\" />\r\n    <property name=\"DefaultHtmlFileTemplate\" value=\"HTML File\" />\r\n    <property name=\"RunOnceActivity.ShowReadmeOnStart\" value=\"true\" />\r\n    <property name=\"SHARE_PROJECT_CONFIGURATION_FILES\" value=\"true\" />\r\n    <property name=\"last_opened_file_path\" value=\"$PROJECT_DIR$/..\" />\r\n    <property name=\"settings.editor.selected.configurable\" value=\"file.status.colors\" />\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"SvnConfiguration\">\r\n    <configuration />\r\n  </component>\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"3a79c11a-af6d-46b1-818b-28b3af481221\" name=\"Default Changelist\" comment=\"\" />\r\n      <created>1584307602989</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1584307602989</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"Committed on 9/18/20\">\r\n      <created>1600427618726</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1600427618726</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"Committed on 9/18/20\">\r\n      <created>1600427930050</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1600427930050</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"Committed on 9/18/20\">\r\n      <created>1602883132800</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1602883132800</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"4\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <option name=\"ADD_EXTERNAL_FILES_SILENTLY\" value=\"true\" />\r\n    <MESSAGE value=\"Committed on 9/18/20\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"Committed on 9/18/20\" />\r\n  </component>\r\n  <component name=\"WindowStateProjectService\">\r\n    <state x=\"223\" y=\"67\" key=\"#com.intellij.execution.impl.EditConfigurationsDialog\" timestamp=\"1600427996757\">\r\n      <screen x=\"0\" y=\"0\" width=\"1536\" height=\"824\" />\r\n    </state>\r\n    <state x=\"223\" y=\"67\" key=\"#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824\" timestamp=\"1600427996757\" />\r\n    <state x=\"395\" y=\"0\" key=\"CommitChangelistDialog2\" timestamp=\"1602883131611\">\r\n      <screen x=\"0\" y=\"0\" width=\"1536\" height=\"824\" />\r\n    </state>\r\n    <state x=\"395\" y=\"0\" key=\"CommitChangelistDialog2/0.0.1536.824@0.0.1536.824\" timestamp=\"1602883131611\" />\r\n    <state x=\"549\" y=\"167\" key=\"FileChooserDialogImpl\" timestamp=\"1595183555992\">\r\n      <screen x=\"0\" y=\"0\" width=\"1536\" height=\"824\" />\r\n    </state>\r\n    <state x=\"549\" y=\"167\" key=\"FileChooserDialogImpl/0.0.1536.824@0.0.1536.824\" timestamp=\"1595183555992\" />\r\n    <state x=\"277\" y=\"57\" key=\"SettingsEditor\" timestamp=\"1600428514595\">\r\n      <screen x=\"0\" y=\"0\" width=\"1536\" height=\"824\" />\r\n    </state>\r\n    <state x=\"277\" y=\"57\" key=\"SettingsEditor/0.0.1536.824@0.0.1536.824\" timestamp=\"1600428514595\" />\r\n    <state x=\"361\" y=\"145\" key=\"Vcs.Push.Dialog.v2\" timestamp=\"1602883145359\">\r\n      <screen x=\"0\" y=\"0\" width=\"1536\" height=\"824\" />\r\n    </state>\r\n    <state x=\"361\" y=\"145\" key=\"Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824\" timestamp=\"1602883145359\" />\r\n    <state x=\"93\" y=\"93\" width=\"1350\" height=\"638\" key=\"com.intellij.history.integration.ui.views.FileHistoryDialog\" timestamp=\"1600428722377\">\r\n      <screen x=\"0\" y=\"0\" width=\"1536\" height=\"824\" />\r\n    </state>\r\n    <state x=\"93\" y=\"93\" width=\"1350\" height=\"638\" key=\"com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1536.824@0.0.1536.824\" timestamp=\"1600428722377\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/workspace.xml	(revision 5ba62a54dd63268f7c7b7e73962a64730281e193)
++++ .idea/workspace.xml	(date 1602887374009)
+@@ -1,10 +1,7 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <project version="4">
+   <component name="ChangeListManager">
+-    <list default="true" id="3a79c11a-af6d-46b1-818b-28b3af481221" name="Default Changelist" comment="">
+-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/learning_log/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/learning_log/settings.py" afterDir="false" />
+-    </list>
++    <list default="true" id="3a79c11a-af6d-46b1-818b-28b3af481221" name="Default Changelist" comment="Committed on 10/17/20" />
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -73,23 +70,31 @@
+       <option name="project" value="LOCAL" />
+       <updated>1602883132800</updated>
+     </task>
+-    <option name="localTasksCounter" value="4" />
++    <task id="LOCAL-00004" summary="Committed on 10/17/20">
++      <created>1602887143367</created>
++      <option name="number" value="00004" />
++      <option name="presentableId" value="LOCAL-00004" />
++      <option name="project" value="LOCAL" />
++      <updated>1602887143367</updated>
++    </task>
++    <option name="localTasksCounter" value="5" />
+     <servers />
+   </component>
+   <component name="VcsManagerConfiguration">
+     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+     <MESSAGE value="Committed on 9/18/20" />
+-    <option name="LAST_COMMIT_MESSAGE" value="Committed on 9/18/20" />
++    <MESSAGE value="Committed on 10/17/20" />
++    <option name="LAST_COMMIT_MESSAGE" value="Committed on 10/17/20" />
+   </component>
+   <component name="WindowStateProjectService">
+     <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600427996757">
+       <screen x="0" y="0" width="1536" height="824" />
+     </state>
+     <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1600427996757" />
+-    <state x="395" y="0" key="CommitChangelistDialog2" timestamp="1602883131611">
++    <state x="395" y="0" key="CommitChangelistDialog2" timestamp="1602887336781">
+       <screen x="0" y="0" width="1536" height="824" />
+     </state>
+-    <state x="395" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1602883131611" />
++    <state x="395" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1602887336781" />
+     <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1595183555992">
+       <screen x="0" y="0" width="1536" height="824" />
+     </state>
+@@ -98,10 +103,10 @@
+       <screen x="0" y="0" width="1536" height="824" />
+     </state>
+     <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1600428514595" />
+-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1602883145359">
++    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1602887159545">
+       <screen x="0" y="0" width="1536" height="824" />
+     </state>
+-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1602883145359" />
++    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1602887159545" />
+     <state x="93" y="93" width="1350" height="638" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1600428722377">
+       <screen x="0" y="0" width="1536" height="824" />
+     </state>
