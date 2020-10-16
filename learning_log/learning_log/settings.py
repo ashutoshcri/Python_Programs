@@ -25,7 +25,7 @@ SECRET_KEY = 'e0px(8_zj_3y(w!0u#((^x%o1s3#68k@16-2g&ox41fp)n!(0z'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['60fbc2164a03.ngrok.io',]
 
 
 # Application definition
@@ -39,7 +39,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
 
     # My apps
-    'learning_logs'
+    'learning_logs', 'users',
 ]
 
 MIDDLEWARE = [
